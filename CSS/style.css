@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(10, 56, 56);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor{
+    border: solid red;
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+}
+
+#rama{
+    color: brown;
+    font-size: 20PX;
+}
+
+h2{
+    color: red;
+    font-size: 40px;
+}
