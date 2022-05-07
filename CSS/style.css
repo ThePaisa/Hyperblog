@@ -7,24 +7,32 @@ body{
     padding: 0;
 }
 
+
 #informacion{
-    border: solid red;
-    padding: 20px;
+    border: solid rgb(0, 56, 1);
+    padding: 0px;
     width: 50%;
     margin: auto;
+    box-shadow: 0px 5px 30px 0px rgba(1, 87, 1, 0.897);
 }
 
 #rama{
-    color: brown;
+    color: rgb(54, 165, 42);
     font-size: 20PX;
 }
 
 h2{
-    color: red;
+    color: rgb(52, 137, 6);
     font-size: 40px;
 }
-
-#cabecera{
-    background-color: blue;
+#cabecera p{
+    background-color: rgba(56, 133, 4, 0.697);
+    color: rgb(4, 58, 4);
+    padding: 0px;
+    text-align: left;
+    margin: 0px;
+    font-size: 35px;
+    box-shadow: 0px 5px 30px 0px green;
+    text-shadow:  0px 5px 30px 0px rgb(0, 0, 0);
 }
 
